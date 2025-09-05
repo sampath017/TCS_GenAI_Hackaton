@@ -1,0 +1,91 @@
+item_id,item_name,category,stock_level,reorder_point,lead_time_days,supplier
+1,Steel Rods,Raw Material,533,925,13,PolyPlast
+2,Aluminum Sheets,Raw Material,674,710,7,FastenIt
+3,Copper Wire,Raw Material,981,913,14,PolyPlast
+4,Brass Fittings,Raw Material,989,897,10,PolyPlast
+5,Iron Ingots,Raw Material,866,998,6,BoxMakers
+6,Stainless Steel Pipes,Raw Material,498,864,12,SteelCorp
+7,Zinc Coils,Raw Material,538,637,12,SteelCorp
+8,Titanium Plates,Raw Material,1033,554,6,FastenIt
+9,Nickel Powder,Raw Material,1118,892,10,SteelCorp
+10,Lead Blocks,Raw Material,819,525,5,BoxMakers
+11,Polyethylene Pellets,Raw Material,875,661,12,PolyPlast
+12,Polypropylene Sheets,Raw Material,741,517,13,FastenIt
+13,PVC Pipes,Raw Material,668,997,9,BoxMakers
+14,ABS Resin,Raw Material,984,931,10,PolyPlast
+15,Nylon Granules,Raw Material,868,516,7,SteelCorp
+16,Polystyrene Foam,Raw Material,1198,549,5,FastenIt
+17,Acrylic Sheets,Raw Material,1150,562,13,FastenIt
+18,Polycarbonate Pellets,Raw Material,896,827,11,PolyPlast
+19,Teflon Sheets,Raw Material,440,850,10,SteelCorp
+20,Epoxy Resin,Raw Material,861,964,8,FastenIt
+21,Sulfuric Acid,Raw Material,711,586,13,SteelCorp
+22,Hydrochloric Acid,Raw Material,1065,665,14,SteelCorp
+23,Sodium Hydroxide,Raw Material,643,765,5,PolyPlast
+24,Ethanol,Raw Material,1155,930,12,BoxMakers
+25,Acetone,Raw Material,579,640,7,SteelCorp
+26,Ammonia,Raw Material,705,588,13,FastenIt
+27,Silicone Oil,Raw Material,835,881,12,FastenIt
+28,Latex Compound,Raw Material,275,873,11,FastenIt
+29,Benzene,Raw Material,1206,906,5,FastenIt
+30,Isopropyl Alcohol,Raw Material,780,684,10,PolyPlast
+31,Cotton Yarn,Raw Material,784,578,7,SteelCorp
+32,Polyester Fabric,Raw Material,1116,545,11,PolyPlast
+33,Wool Rolls,Raw Material,521,789,13,BoxMakers
+34,Silk Cloth,Raw Material,571,690,9,SteelCorp
+35,Nylon Thread,Raw Material,826,504,5,SteelCorp
+36,Canvas Sheets,Raw Material,435,825,8,SteelCorp
+37,Denim Fabric,Raw Material,633,625,9,BoxMakers
+38,Jute Bags,Raw Material,828,576,6,PolyPlast
+39,Velvet Cloth,Raw Material,1999,669,13,SteelCorp
+40,Leather Hides,Raw Material,1036,896,7,SteelCorp
+41,Cardboard Boxes,Raw Material,555,756,13,FastenIt
+42,Corrugated Sheets,Raw Material,882,697,14,BoxMakers
+43,Kraft Paper Rolls,Raw Material,951,650,13,FastenIt
+44,Bubble Wrap,Raw Material,667,733,12,FastenIt
+45,Shrink Film,Raw Material,792,853,14,PolyPlast
+46,Wooden Pallets,Raw Material,1034,677,8,FastenIt
+47,Plastic Crates,Raw Material,474,615,11,BoxMakers
+48,Glass Bottles,Raw Material,588,821,8,BoxMakers
+49,Aluminum Cans,Raw Material,476,894,12,SteelCorp
+50,Plastic Caps,Raw Material,1189,698,12,PolyPlast
+51,Silicon Wafers,Raw Material,607,622,7,SteelCorp
+52,Lithium Batteries,Raw Material,669,516,12,FastenIt
+53,Resistors,Raw Material,1047,699,13,SteelCorp
+54,Capacitors,Raw Material,607,911,9,BoxMakers
+55,Diodes,Raw Material,923,794,8,BoxMakers
+56,Transistors,Raw Material,983,607,5,FastenIt
+57,Copper PCBs,Raw Material,589,584,7,SteelCorp
+58,Fiber Optic Cables,Raw Material,636,925,10,BoxMakers
+59,Magnetic Coils,Raw Material,1006,710,9,BoxMakers
+60,LED Chips,Raw Material,379,615,7,PolyPlast
+61,Plywood Sheets,Raw Material,1081,990,12,SteelCorp
+62,Timber Logs,Raw Material,1519,954,8,SteelCorp
+63,Cement Bags,Raw Material,1214,922,12,PolyPlast
+64,Sand,Raw Material,455,662,8,BoxMakers
+65,Gravel,Raw Material,870,613,6,PolyPlast
+66,Ceramic Tiles,Raw Material,692,702,9,PolyPlast
+67,Glass Sheets,Raw Material,394,755,10,PolyPlast
+68,Clay Bricks,Raw Material,1063,859,8,BoxMakers
+69,Concrete Blocks,Raw Material,1235,796,7,FastenIt
+70,Gypsum Boards,Raw Material,601,540,6,FastenIt
+71,Wheat Flour,Raw Material,1028,911,8,FastenIt
+72,Corn Starch,Raw Material,803,594,9,PolyPlast
+73,Sugar,Raw Material,617,664,9,FastenIt
+74,Palm Oil,Raw Material,1107,598,11,SteelCorp
+75,Milk Powder,Raw Material,897,559,14,FastenIt
+76,Cocoa Beans,Raw Material,927,589,14,BoxMakers
+77,Coffee Beans,Raw Material,1500,911,8,PolyPlast
+78,Soy Protein,Raw Material,631,684,12,PolyPlast
+79,Gelatin Powder,Raw Material,935,627,9,FastenIt
+80,Salt,Raw Material,589,942,5,PolyPlast
+81,Bolts,Raw Material,759,787,5,PolyPlast
+82,Nuts,Raw Material,720,804,5,PolyPlast
+83,Screws,Raw Material,942,991,5,PolyPlast
+84,Washers,Raw Material,837,626,9,SteelCorp
+85,Rivets,Raw Material,847,887,10,BoxMakers
+86,Springs,Raw Material,914,820,10,SteelCorp
+87,Bearings,Raw Material,618,537,14,FastenIt
+88,Pins,Raw Material,740,667,7,FastenIt
+89,Clamps,Raw Material,928,512,5,PolyPlast
+90,Seals,Raw Material,567,840,12,PolyPlast

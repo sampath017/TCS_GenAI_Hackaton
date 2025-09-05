@@ -5,6 +5,13 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "jupyter>=1.1.1",
+    "langchain>=0.3.27",
+    "langchain-community>=0.3.29",
+    "llama-cpp-python>=0.3.16",
+    "notebook>=7.4.5",
     "openai>=1.105.0",
     "streamlit>=1.49.1",
+    "torch>=2.8.0",
+    "transformers>=4.56.1",
 ]
