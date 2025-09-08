@@ -15,6 +15,8 @@
 ### Expected Output
     Conversational respones with inventory status and restock recommandations.
 
-
 # Important notes
 [chatgpt notes](https://chatgpt.com/s/t_68b95a01d6608191bb3ea9120d3d4dc1)
+
+# TODO
+Include matter in .csv files to under which table and what each column is of?
