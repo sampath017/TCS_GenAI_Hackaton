@@ -6,11 +6,15 @@ __pycache__/
 # C extensions
 *.so
 
-models/
-data/
-logs/
-!data/*.pdf
+models/*
+logs/*
 
+# Ignore everything in data/
+data/*
+
+# But do NOT ignore the pdf folder and its contents
+!data/pdf/
+!data/csv/
 
 # Distribution / packaging
 .Python
