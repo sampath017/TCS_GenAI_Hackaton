@@ -9,6 +9,8 @@ __pycache__/
 models/
 data/
 logs/
+!data/*.pdf
+
 
 # Distribution / packaging
 .Python
