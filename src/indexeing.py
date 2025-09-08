@@ -1,6 +1,6 @@
 from langchain.document_loaders import PyPDFLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain.vectorstores import Chroma
+from langchain_chroma import Chroma
 import settings as s
 
 
@@ -35,7 +35,6 @@ def get_db(embedding_model):
 
         # Add to DB and persist
         db.add_documents(docs_chunks)
-        db.persist()
 
         print(f"File processed and indexed: {pdf_file.name}")
 
