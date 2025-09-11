@@ -6,6 +6,7 @@ np.random.seed(0)
 # Paths
 project_root_path = Path(__file__).parent.parent.resolve()
 data_root_path = project_root_path / "data"
+db_path = data_root_path / "supply_chain.db"
 
 logs_root_path = project_root_path / "logs"
 logs_root_path.mkdir(exist_ok=True)
